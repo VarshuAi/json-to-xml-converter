@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Tree compiler converting JSON properties to clean XML tags.
+  name: json-to-xml-converter version: 1.0 type: Repository author: VarshuAi description: >   Tree compiler converting JSON properties to clean XML tags. primary_tech: CSS
 primary_tech: CSS
 ```
 
